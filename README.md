@@ -33,9 +33,9 @@ A beautiful weather app using live API data
 ---
 ### 🧮 Simple Swift Calculator
 A clean and lightweight iOS calculator app built with Swift and UIKit.
--Performs basic arithmetic operations: addition, subtraction, multiplication & division.
--Simple user interface with intuitive button layout.
-
+- Performs basic arithmetic operations: addition, subtraction, multiplication & division.
+- Simple user interface with intuitive button layout.
+ https://github.com/parvanacanan/simpleCalculator.git
  
 ## 🛠️ What I’m Working On
 
