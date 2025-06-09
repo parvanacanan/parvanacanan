@@ -31,7 +31,12 @@ A beautiful weather app using live API data
 - Combine for reactive data flow  
  
 ---
+### 🧮 Simple Swift Calculator
+A clean and lightweight iOS calculator app built with Swift and UIKit.
+-Performs basic arithmetic operations: addition, subtraction, multiplication & division.
+-Simple user interface with intuitive button layout.
 
+ 
 ## 🛠️ What I’m Working On
 
 - Developing a new **mentorship platform** app  
