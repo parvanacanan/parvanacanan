@@ -36,6 +36,16 @@ A clean and lightweight iOS calculator app built with Swift and UIKit.
 - Performs basic arithmetic operations: addition, subtraction, multiplication & division.
 - Simple user interface with intuitive button layout.
  https://github.com/parvanacanan/simpleCalculator.git
+
+---
+  
+### ✅ Catch the Mole  
+A fun iOS game where you tap the mole as it appears randomly on the screen  
+- Built with Swift and UIKit  
+- Uses gesture recognizers and timers  
+- Tracks current score and high score  
+- Simple and interactive gameplay  
+
  
 ## 🛠️ What I’m Working On
 
