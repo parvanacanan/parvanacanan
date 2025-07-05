@@ -54,6 +54,11 @@ A lightweight iOS app built with Swift and UIKit that converts currencies using 
 https://github.com/parvanacanan/simpleCurrencyApp.git
 
  --- 
+ ## 🗺️ MyNextDestination App
+A travel planner iOS app using Swift, MapKit, and CoreData. Users can pick a location on the map and save its name, description, photo (via UIImagePickerController), and coordinates. Saved places are displayed in a Table View with smooth navigation using segues.
+  https://github.com/parvanacanan/myNextDestination.git
+  ___
+  
 ## 🛠️ What I’m Working On
 
 - Developing a new **mentorship platform** app  
