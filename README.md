@@ -47,7 +47,13 @@ A fun iOS game where you tap the mole as it appears randomly on the screen
 - Simple and interactive gameplay  
 https://github.com/parvanacanan/catch-the-moles.git
 
- 
+---
+## 💱 Currency Converter App
+A lightweight iOS app built with Swift and UIKit that converts currencies using real-time exchange rates from a public API. It features a clean UI and handles JSON data with URLSession.
+
+https://github.com/parvanacanan/simpleCurrencyApp.git
+
+ --- 
 ## 🛠️ What I’m Working On
 
 - Developing a new **mentorship platform** app  
@@ -55,6 +61,7 @@ https://github.com/parvanacanan/catch-the-moles.git
 - Designing and building my **personal portfolio website**
 
 ---
+
 
 ## 📫 Contact Me
 
