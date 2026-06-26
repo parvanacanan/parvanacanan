@@ -61,8 +61,7 @@ A travel planner iOS app using Swift, MapKit, and CoreData. Users can pick a loc
    
 
 
-## 📫 Contact Me
-- Phone : +994 51 478 3829 
+## 📫 Contact Me 
 - 📧 Email: parvanacanan@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/parvana-jananova-8303692a6/)  
 - 💻 [GitHub](https://github.com/parvanacanan)
